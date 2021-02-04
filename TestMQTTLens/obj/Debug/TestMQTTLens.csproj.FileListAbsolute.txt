@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\bin\Debug\TestMQTTLens.exe.config
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\bin\Debug\TestMQTTLens.exe
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\bin\Debug\TestMQTTLens.pdb
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\obj\Debug\TestMQTTLens.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\obj\Debug\TestMQTTLens.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\obj\Debug\TestMQTTLens.csproj.CopyComplete
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\obj\Debug\TestMQTTLens.exe
+C:\Users\ACER\Desktop\TestMQTTLens\TestMQTTLens\obj\Debug\TestMQTTLens.pdb
