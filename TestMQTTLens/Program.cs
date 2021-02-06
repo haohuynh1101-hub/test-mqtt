@@ -37,5 +37,9 @@ namespace TestMQTTLens
             var message = System.Text.Encoding.Default.GetString(e.Message);
             System.Console.WriteLine("Message received: " + message);
         }
+        static void testMergeRequest()
+        {
+            Console.WriteLine("Merge Request");
+        }
     }
 }
